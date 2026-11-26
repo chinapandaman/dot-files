@@ -1,2 +1,3 @@
 font-family = "Monaco"
 cursor-style-blink = false
+clipboard-paste-protection = false
